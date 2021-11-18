@@ -13,7 +13,7 @@ On larger screen sizes, the display value is far off to the right of the screen,
 
 I tried to use an ionicon in the title bar to implement the hamburger menu, but the icon wouldn't show up. I imagine once I have a better understanding of layout in Ionic I'll be able to appropriately display the icon (one way or another) and create a dropdown menu with additional features. I think it would make sense to have a history of calculations here and a toggle for dark mode.
 
-Outside of initial frustrations trying to figure out this framework, I found working with Ionic React to be enjoyable and fairly intuitive once I started to understand it more.
+Outside of initial frustrations trying to figure out this framework, I found working with Ionic React to be enjoyable and fairly intuitive once I started to understand it more. I especially liked the theming options that were available. It made the color theming feel smooth, and the tools for generating colors on the website added to this feeling.
 Managing state in the calculator was a challenge, even with this limited calculator functionality (no parentheses, exponents, etc.), but I feel that as I re-familiarize myself
 with React I will be able to find a better way to handle state which will allow for additional functionality to be added (which could potentially only be available in
 landscape mode on mobile devices or larger screens like PCs and tablets).
